@@ -1,3 +1,3 @@
 # Death Star
-Death Star project for the empire 
-More data
+Death Star project for the empire.
+More data.
