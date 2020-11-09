@@ -1,2 +1,2 @@
 # Death Star
-Death Star project for the empire 
+Death Star project for the galaxy empire 
